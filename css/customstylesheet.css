@@ -19,7 +19,9 @@ html {
 
 /* Banner style */
 .banner {
-    background-color: aquamarine; 
+    background-image: url('file:///Users/richardbunker/Projects/Krissieclaire/images/tech-1495181_1920.jpg');
+    /* background-color: aquamarine; */
+    background-size:100%;
     width: 100%;
     height: 30rem;
     padding-top: 6rem;
